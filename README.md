@@ -8,13 +8,13 @@
 
 <p align="left"> <a href="https://twitter.com/talhahusnain7" target="blank"><img src="https://img.shields.io/twitter/follow/talhahusnain7?logo=twitter&style=for-the-badge" alt="talhahusnain7" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://nextportfolio-talha.vercel.app](https://nextportfolio-talha.vercel.app)
+- 👨‍💻 All of my projects are available at [https://my-animated-portfolio-wjso.vercel.app/](https://my-animated-portfolio-wjso.vercel.app/)
 
-- 💬 Ask me about **react,MERN,Web App**
+- 💬 Ask me about **ReactJs,NextJs,MERN,Web App**
 
 - 📫 How to reach me **talhahusnain475@gmail.com**
 
-- ⚡ Fun fact **I am funny**
+- ⚡ Fun fact **I am Passionate**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
