@@ -7,22 +7,24 @@
 
 <p align="left"> <a href="https://twitter.com/talhahusnain7" target="blank"><img src="https://img.shields.io/twitter/follow/talhahusnain7?logo=twitter&style=for-the-badge" alt="talhahusnain7" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://my-animated-portfolio-wjso.vercel.app/](https://my-animated-portfolio-wjso.vercel.app/)
+- 🔭 I’m currently working on **Nextjs based project**
 
-- 💬 Ask me about **ReactJs,NextJs,MERN,Web App**
+- 🤝 I’m looking for help with **Web App**
+
+- 👨‍💻 All of my projects are available at [https://github.com/Talha-H](https://github.com/Talha-H)
+
+- 💬 Ask me about **NextJs, reactJs, Typescript, javascript and Tailwind web apps**
 
 - 📫 How to reach me **talhahusnain475@gmail.com**
 
-- ⚡ Fun fact **I am Passionate**
+- ⚡ Fun fact **I Like risk**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/talhahusnain7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="talhahusnain7" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/talhahusnain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="talhahusnain" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/edit/22022572" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/edit/22022572" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/azadz4t7?mibextid=zbwkwl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/azadz4t7?mibextid=zbwkwl" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/azadz4t7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/azadz4t7?mibextid=zbwkwl" height="30" width="40" /></a>
 <a href="https://instagram.com/talha_husnain_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="talha_husnain_" height="30" width="40" /></a>
-<a href="https://discord.gg/999298364778750032" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="999298364778750032" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
